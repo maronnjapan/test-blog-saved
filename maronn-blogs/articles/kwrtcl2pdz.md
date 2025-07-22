@@ -1,4 +1,7 @@
 :::message  
+
+:::
+
 aaaa
 :::
 
@@ -10,5 +13,11 @@ aaaa
 
 :::
 
+:::
+
 えええええ
+:::
+
+:::message alert
+red
 :::
