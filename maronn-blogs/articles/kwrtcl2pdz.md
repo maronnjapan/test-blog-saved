@@ -2,10 +2,6 @@
 
 :::
 
-:::details aaaaa 
-
-:::
-
 :::
 
 :::message  
@@ -19,4 +15,8 @@
 red
 :::
 
-bbbbb
+aa
+
+危険テスト
+## あああああ:::details bbbb
+
