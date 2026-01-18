@@ -1,7 +1,7 @@
 ---
 title: "HTML要素に存在する指定のdata属性を削除方法"
 emoji: "😽"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "tech"
 topics: ["vite", "React"]
 published: true
 ---
