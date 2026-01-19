@@ -1,5 +1,5 @@
 ---
-title: "HTML要素に存在する指定のdata属性を削除方法"
+title: "HTML要素に存在する指定のdata属性を削除"
 emoji: "😽"
 type: "tech"
 topics: ["vite", "React"]
