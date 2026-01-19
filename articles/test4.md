@@ -1,5 +1,5 @@
 ---
-title: "④HTML要素に存在する指定のdata属性を削除"
+title: "④HTML要素に存在する指定のdataを削除"
 emoji: "😽"
 type: "tech"
 topics: ["vite", "React"]
