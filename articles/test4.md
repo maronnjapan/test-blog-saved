@@ -3,6 +3,7 @@ title: "④HTML要素に存在する指定のdata"
 emoji: "😽"
 type: "tech"
 topics: ["vite", "React"]
+targetCategory: "security"
 published: true
 ---
 
