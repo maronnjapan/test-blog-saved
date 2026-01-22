@@ -1,5 +1,5 @@
 ---
-title: "④HTML要素に存在する指定のdata"
+title: "④HTML要素"
 emoji: "😽"
 type: "tech"
 topics: ["vite", "React"]
