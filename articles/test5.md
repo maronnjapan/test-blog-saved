@@ -12,7 +12,7 @@ published: true
 https://x.com/saki_engineer/status/2015024932695187777
 https://shonenjumpplus.com/episode/17107094913779623046
 
-### Vue の場合
+### Vue 
 
 vite.config.ts を以下のようにします。
 
