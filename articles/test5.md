@@ -20,7 +20,6 @@ https://www.youtube.com/watch?v=YV398l3BnJs
 
 ### Vue 
 
-vite.config.ts を以下のようにします。
 
 ```tsx
 import { defineConfig } from 'vite'
