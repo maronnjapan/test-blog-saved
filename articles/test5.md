@@ -12,6 +12,10 @@ published: true
 https://x.com/saki_engineer/status/2015024932695187777
 https://shonenjumpplus.com/episode/17107094913779623046
 
+https://github.com/zenn-dev/zenn-editor/blob/canary/packages/zenn-markdown-html/src/utils/embed-helper.ts#L56
+
+https://gist.github.com/hkusu/78e0e3460efe7723f948
+
 ### Vue 
 
 vite.config.ts を以下のようにします。
