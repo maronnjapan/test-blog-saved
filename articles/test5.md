@@ -16,6 +16,8 @@ https://github.com/zenn-dev/zenn-editor/blob/canary/packages/zenn-markdown-html/
 
 https://gist.github.com/hkusu/78e0e3460efe7723f948
 
+https://www.youtube.com/watch?v=YV398l3BnJs
+
 ### Vue 
 
 vite.config.ts を以下のようにします。
